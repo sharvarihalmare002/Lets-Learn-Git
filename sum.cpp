@@ -5,14 +5,9 @@ using namespace std;
 
 int main()
 {
-	double x = 6.1, y = 4.8;
-
-	// Storing the answer in result.
-	double result = pow(x, y);
-
-	// printing the result upto 2
-	// decimal place
-	cout<<x;
+	int a=4; int b=2;
+    int sum=a+b;
+    cout<<sum;
 
 	return 0;
 }
